@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Hitclub - Nhà Cái Hàng Đầu Châu Á, Tiên Phong Xu Hướng Cá Cược 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Mimifoundation org <https://mimi-foundation.org/>`_ là một thương hiệu cá cược trực tuyến hàng đầu tại châu Á dưới sự cho phép của tập đoàn Hitclub. Tên miền mimifoundation.org là địa chỉ chính thức để cập nhật link vào nhà cái Hitclub tại thị trường Việt Nam, nổi bật với các dịch vụ đa dạng như cá cược thể thao, casino trực tuyến, và slot game. Mimifoundation.org cam kết nâng cao chất lượng sản phẩm và dịch vụ, chú trọng bảo mật thông tin và an toàn giao dịch. Đồng thời, mimifoundation.org cũng triển khai nhiều chương trình khuyến mãi hấp dẫn nhằm thu hút và giữ chân người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 2 ĐT746, Khánh Bình, Tân Uyên, Bình Dương 79663. 
 
-   This project is under active development.
+Phone: 0796655881. 
 
-Contents
---------
+Email: info@mimi-foundation.org. 
 
-.. toctree::
+Website: https://mimi-foundation.org/ 
 
-   usage
-   api
+#hitclub #nhacaihitclub #trangchuhitclub #trangchuhitclub #linkhitclub
